@@ -2,7 +2,7 @@
 
 ### Day 1: January 3, 2017
 
-**Today's Progress**: Worked on personal portfolio site using HTML & CSS, added to Codepen and submitted to Free Code Camp as Portfolio project
+**Today's Progress**: Worked on personal portfolio site using HTML & CSS, added to Codepen and submitted to Free Code Camp as Portfolio project; Also worked on Free Code Camp Javascript algorithm scripting challenges.
 
 **Thoughts:** I'm feeling more comfortable using HTML & CSS and am starting to get more comfortable using Flexbox. I'm focusing on DRY coding and making sure it's clean & has good comments.
 
