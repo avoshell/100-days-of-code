@@ -7,3 +7,11 @@
 **Thoughts:** I'm feeling more comfortable using HTML & CSS and am starting to get more comfortable using Flexbox. I'm focusing on DRY coding and making sure it's clean & has good comments.
 
 **Link to work:** [Portfolio Project](http://codepen.io/allison_voshell/pen/bBjqXM)
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Started new site - The Sustenance Project, a fictional restaurant aimed towards using local food makers and reducing waste by donating excess food to those in need and getting community involved in green food production; attend DSM Front End meetup & learned about upcoming CSS Grid
+
+**Thoughts:** Working on creating more projects to add to portfolio; CSS Grid sounds like a great feature and I hope to start using it soon in experimental dev environment
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
