@@ -15,3 +15,9 @@
 **Thoughts:** Working on creating more projects to add to portfolio; CSS Grid sounds like a great feature and I hope to start using it soon in experimental dev environment
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Worked on Free Code Camp's algorithm scripting challenges
+
+**Thoughts:** Working on learning more Javascript
