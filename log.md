@@ -22,10 +22,18 @@
 
 **Thoughts:** Working on learning more Javascript
 
-### Day 4: January 6, 2017 
+### Day 4: January 7, 2017 
 
-**Today's Progress**: (skipped January 5th due to illness) Coded for 2+ hours due to skipping previous day. Worked on Free Code Camp's algorithm scripting challenges & worked on Sustenance Project personal project
+**Today's Progress**: (skipped January 6th due to illness) Coded for 2+ hours due to skipping previous day. Worked on Free Code Camp's algorithm scripting challenges & worked on Sustenance Project personal project
 
 **Thoughts:** Working on learning more Javascript and continuing to build portfolio pieces of types of projects I'd like to work on in the future
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 5: January 8, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
