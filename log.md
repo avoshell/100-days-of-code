@@ -45,3 +45,11 @@
 **Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Figuring out how to balance working on ideas and coding ideas into reality.
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 7: January 10, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Reading more about & implementing Flexbox.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
