@@ -69,3 +69,27 @@
 **Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Seeing a project really come together in a little over a week shows me how much I can actually get done if I were to plan things out & buckle down and not be afraid to start a new project due to the perceived time it wil take to finish.
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 10: January 13, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Learned about building forms.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 11: January 14, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Built a few forms.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 12: January 15, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Learned about styling forms and that Flexbox can't solve everything.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
