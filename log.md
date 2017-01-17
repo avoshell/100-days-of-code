@@ -93,3 +93,11 @@
 **Thoughts:** Continuing to build portfolio pieces of types of projects I'd like to work on in the future and developing a workflow. Learned about styling forms and that Flexbox can't solve everything.
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 13: January 16, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Learned about image sizing and looked into page load times. Also experimented with styling forms using Flexbox. Also, 1990s Disney movie soundtracks make for a good coding playlist.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
