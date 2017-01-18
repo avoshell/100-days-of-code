@@ -101,3 +101,12 @@
 **Thoughts:** Learned about image sizing and looked into page load times. Also experimented with styling forms using Flexbox. Also, 1990s Disney movie soundtracks make for a good coding playlist.
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+
+### Day 14: January 17, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Created logo for site using pre-existing illustration of mine from my first graphic design class.
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
