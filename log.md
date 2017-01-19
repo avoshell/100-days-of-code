@@ -110,3 +110,11 @@
 **Thoughts:** Created logo for site using pre-existing illustration of mine from my first graphic design class.
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 15: January 18, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project
+
+**Thoughts:** Finalizing project, but need to look into SEO. Wondering how to find my next project and how much to challenge myself while staying fresh with HTML/CSS skills. 
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
