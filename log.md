@@ -118,3 +118,11 @@
 **Thoughts:** Finalizing project, but need to look into SEO. Wondering how to find my next project and how much to challenge myself while staying fresh with HTML/CSS skills. 
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 16: January 19, 2017 
+
+**Today's Progress**: Worked on Sustenance Project personal project - cleaned up CSS classes and refactored code to remove repetition
+
+**Thoughts:** Read (https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.4iw8ccx8x) and took mental notes while refactoring code on how to write CSS efficiently from the beginning of a project. Finalizing project, but need to look into SEO. Wondering how to find my next project and how much to challenge myself while staying fresh with HTML/CSS skills. 
+
+**Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
