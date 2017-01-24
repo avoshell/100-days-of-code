@@ -134,3 +134,11 @@
 **Thoughts:** Going to set up personal portfolio site thru Heroku and continue to work on adding SEO & improving accessability for the Sustenance Project.  
 
 **Link to work:** [Sustenance Project](https://github.com/avoshell/sustenance-project)
+
+### Day 18: January 23, 2017 
+
+**Today's Progress**: Worked on updating personal portfolio site. 
+
+**Thoughts:** Got git & Heroku set up, working on portfolio site to get up & running throuh Heroku. Finally able to show web development work.
+
+**Link to work:** https://github.com/avoshell/Portfolio
