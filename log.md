@@ -142,3 +142,11 @@
 **Thoughts:** Got git & Heroku set up, working on portfolio site to get up & running throuh Heroku. Finally able to show web development work.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 19: January 24, 2017 
+
+**Today's Progress**: Worked on updating personal portfolio site. 
+
+**Thoughts:** Figuring out how to best fight the good fight and resist. This is what democracy looks like. 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
