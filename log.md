@@ -158,3 +158,12 @@
 **Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked. 
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+
+### Day 21: January 26, 2017 
+
+**Today's Progress**: Worked on updating personal portfolio site. Figured out how to showcase site projects on portfolio page.
+
+**Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked. WW3: Alternative War
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
