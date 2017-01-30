@@ -164,6 +164,24 @@
 
 **Today's Progress**: Worked on updating personal portfolio site. Figured out how to showcase site projects on portfolio page.
 
-**Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked. WW3: Alternative War
+**Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked.
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+
+### Day 22: January 28, 2017 
+
+**Today's Progress**: Worked on updating personal portfolio site. Figured out how to showcase site projects on portfolio page.
+
+**Thoughts:** Figuring out how to write About Me section 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+
+### Day 23: January 29, 2017 
+
+**Today's Progress**: Worked on updating personal portfolio site. Figured out how to showcase site projects on portfolio page.
+
+**Thoughts:** Creating templates for adding project images. Discover Chrome extension to take image of entire page, not just what is shown on the screen.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
