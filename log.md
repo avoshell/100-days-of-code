@@ -155,7 +155,7 @@
 
 **Today's Progress**: Worked on updating personal portfolio site. 
 
-**Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked. 
+**Thoughts:** Figuring out how to best fight the good fight and resist. We're all screwed. 
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
 
@@ -164,7 +164,7 @@
 
 **Today's Progress**: Worked on updating personal portfolio site. Figured out how to showcase site projects on portfolio page.
 
-**Thoughts:** Figuring out how to best fight the good fight and resist. We're all fucked.
+**Thoughts:** Figuring out how to best fight the good fight and resist. We're all screwed.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
 
