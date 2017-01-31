@@ -185,3 +185,11 @@
 **Thoughts:** Creating templates for adding project images. Discover Chrome extension to take image of entire page, not just what is shown on the screen.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 24: January 30, 2017 
+
+**Today's Progress**: Got back into Free Code Camp's JavaScript algorithms. Read about AWS and AWS Lightsail & Lambda.
+
+**Thoughts:** Still trying to balance using current skills in projects and learning new skills. 
+
+
