@@ -193,3 +193,10 @@
 **Thoughts:** Still trying to balance using current skills in projects and learning new skills. 
 
 
+### Day 25: January 31, 2017 
+
+**Today's Progress**: Formatted project images for portfolio site & added info in About Me and Contact section. Have to modify bio but it's good enough for now. Hoping to figure out how to launch on Heroku by the end of the week.
+
+**Thoughts:** 25% done! Still trying to balance using current skills in projects and learning new skills but feeling more confident about setting up/planning projects and looking ahead to anticipate changes or if I will need to learn a new skill.
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
