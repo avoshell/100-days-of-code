@@ -200,3 +200,11 @@
 **Thoughts:** 25% done! Still trying to balance using current skills in projects and learning new skills but feeling more confident about setting up/planning projects and looking ahead to anticipate changes or if I will need to learn a new skill.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 26: February 1, 2017 
+
+**Today's Progress**: Worked on responsiveness of site and formatting images for each breakpoint. 
+
+**Thoughts:** Figuring out how to best use images without slowing down site, debating on how to edit images for site. Also, kicking myself for not 100% following mobile-first rules for CSS. Looking more into component styling.
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
