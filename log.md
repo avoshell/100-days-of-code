@@ -208,3 +208,11 @@
 **Thoughts:** Figuring out how to best use images without slowing down site, debating on how to edit images for site. Also, kicking myself for not 100% following mobile-first rules for CSS. Looking more into component styling.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 27: February 5, 2017 
+
+**Today's Progress**: Worked on formatting images and validated code. Got site hosted using GitHub pages and currently trying to figure out how to set up a custom domain.
+
+**Thoughts:** Not having a lot of command line experience is challenging when most resources assume you have that knowledge. Bought custom domain through Google domains and am trying to figure out how to set up for GH pages. Found one good resource from someone who proclaimed to also be a "noob" but can take 24 hours to take effect...works on my computer but not other's.
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
