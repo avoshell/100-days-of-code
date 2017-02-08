@@ -216,3 +216,16 @@
 **Thoughts:** Not having a lot of command line experience is challenging when most resources assume you have that knowledge. Bought custom domain through Google domains and am trying to figure out how to set up for GH pages. Found one good resource from someone who proclaimed to also be a "noob" but can take 24 hours to take effect...works on my computer but not other's.
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 28: February 6, 2017 
+
+**Today's Progress**: Attended DSM Front End Meet-Up. The topic was SVG and SVG animation
+
+**Thoughts:** Learned lots of new tips for SVG animations and they don't seem as daunting as they did when I first did a tutorial on them a few months ago. They presented some great resources that I will come back to when I start working on SVG projects.
+
+### Day 29: February 7, 2017 
+
+**Today's Progress**: Started reading Eloquent Javascript (again) and completed 2 Free Code Camp JS Algorithm scripting challenges WITHOUT having to look up the answers. 
+
+**Thoughts:** Want to get through FCC algorithm & JSON tasks and will then start building projects with JS. I'm still not understanding how to tie JS into HTML/CSS code so want to get more solid understanding. The more I read, the more I'm able to follow the FCC challenges.
+
