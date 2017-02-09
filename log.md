@@ -229,3 +229,10 @@
 
 **Thoughts:** Want to get through FCC algorithm & JSON tasks and will then start building projects with JS. I'm still not understanding how to tie JS into HTML/CSS code so want to get more solid understanding. The more I read, the more I'm able to follow the FCC challenges.
 
+### Day 30: February 8, 2017 
+
+**Today's Progress**: Completed Ch. 2 in Eloquent Javascript and completed code challenges. Worked on formatting media queries for portfolio.
+
+**Thoughts:** Trying to figure out why site works in Chrome browser but media queries do not work correctly when in Chrome developer tools in the Responsive view. 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
