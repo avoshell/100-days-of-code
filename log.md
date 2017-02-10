@@ -236,3 +236,12 @@
 **Thoughts:** Trying to figure out why site works in Chrome browser but media queries do not work correctly when in Chrome developer tools in the Responsive view. 
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
+### Day 31: February 9, 2017 
+
+**Today's Progress**: Continued to work on formatting media queries for portfolio. Trying in Codepen too. Might re-do CSS altogether.
+
+**Thoughts:** Trying to figure out why site works in Chrome browser but media queries do not work correctly when in Chrome developer tools in the Responsive view. 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
