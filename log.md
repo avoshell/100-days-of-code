@@ -245,3 +245,11 @@
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
 
+### Day 32: February 12, 2017 
+
+**Today's Progress**: Continued to work on formatting media queries for portfolio. Re-did CSS media queries, still unsure while not working in Chrome Dev Tools.
+
+**Thoughts:** Trying to figure out why site works in Chrome browser but media queries do not work correctly when in Chrome developer tools in the Responsive view. 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
