@@ -253,3 +253,11 @@
 
 **Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
 
+### Day 33: February 13, 2017 
+
+**Today's Progress**: Finally figured out social media nav and portfolio layout is done. Need to add in more projects. 
+
+**Thoughts:** Still unsure why it wasn't working on my phone but was working on laptop but found out a solution. 
+
+**Link to work:** [Portfolio] (https://github.com/avoshell/Portfolio)
+
